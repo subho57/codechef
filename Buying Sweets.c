@@ -1,4 +1,3 @@
-//https://www.codechef.com/problems/BUYING2
 #include <stdio.h>
 int main(void) {
 	int test,n,x;
